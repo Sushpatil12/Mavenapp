@@ -50,7 +50,7 @@
             <configuration>
                 <archive>
                     <manifestEntries>
-                        <Main-Class>com.example2.sum</Main-Class>
+                        <Main-Class>com.example.App</Main-Class>
                     </manifestEntries>
                 </archive>
             </configuration>
